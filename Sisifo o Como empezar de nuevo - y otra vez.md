@@ -73,7 +73,7 @@ void uncaughtExceptionHandler(NSException *exception);
 @end
 ```
 
-^ Este es código que **realmente** escribí hace un par de años. Horrible, ¿no?
+^ Este es código que **realmente** escribí hace un par de años. Horrible, ¿no?.
 
 ^ Y aún cuando escribía código así, sabía que estaba mejorando.
 
@@ -192,7 +192,9 @@ map(array) { $0 * 2 }
 [^2]: [Enemy of the State](http://2014.funswiftconf.com/speakers/justin.html) de Justin Spahr-Summers.
 
 ^ Funciones puras: Una función en la que su resultado está sólo determinado por sus parámetros de entrada, sin efectos colaterales.
+
 ^ Es decir, no modifican estado.
+
 ^ Charla _Enemigo del estado_.
 
 ---
@@ -237,8 +239,11 @@ map(array) { $0 * 2 }
 # [fit] *es aprender*
 
 ^ Al final del día, la única medida importante es tu crecimiento.
+
 ^ Si ves tu código antiguo y no ves progreso, estás en un problema.
+
 ^ Mientras sientas que estás aprendiendo está todo bien.
+
 ^ Ahora, ¿cómo aprender?
 
 ---
@@ -246,7 +251,7 @@ map(array) { $0 * 2 }
 # [fit] de lo que un programador promedio
 # [fit] lee *en un año* [^3]
 
-[^3]: DeMarco and Lister 1999
+[^3]: [DeMarco and Lister, Peopleware, 2nd Ed, 1999](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439)
 
 ^ Estoy en desacuerdo con la visión general de que solo se necesita práctica para convertirse en un buen desarrollador.
 
@@ -256,23 +261,28 @@ map(array) { $0 * 2 }
 
 ^ Los mejores libros son agnósticos.
 
-^ No explican cómo, explican ¿por qué?
+^ No explican cómo, explican ¿por qué?.
 
 ---
 # Busca un 
 # [fit] Mentor
 
 ^ La mejor forma de aprender es ver a alguien que sabe más trabajar.
+
 ^ Hacer Code Review es una excelente forma de aprender.
-^ Revisa el código de gente que admires y trata de entender por qué tomaron las decisiones que tomaron. Ve sus API's, ¿qué te dicen?
-^ ¿Ideas?
+
+^ Revisa el código de gente que admires y trata de entender por qué tomaron las decisiones que tomaron. Ve sus API's, ¿qué te dicen?.
+
+^ Particularmente en Chile es dificil encontrar mentores iOS. ¿Ideas?
 
 ---
 # [fit] No seas un desarrollador 
 # [fit] de *Objective-C o Swift*
 
 ^ Sé un desarrollador y punto.
+
 ^ Busca la mejor herramienta para el trabajo.
+
 ^ Mejora.
 
 ---
@@ -281,7 +291,9 @@ map(array) { $0 * 2 }
 -- Albert Camus
 
 ^ Ser un gran programador es mucho más sobre el camino que sobre el destino. 
+
 ^ Mientras más sabes, más te das cuenta de lo mucho que desconoces.
+
 ^ Al igual que Sísifo, subir la roca es lo que cuenta. Esta siempre volverá a caer en un momento u otro, pero lo importante es seguir empujándola arriba, seguir aprendiendo y continuar enfocado en empujarla.
 
 ---
@@ -289,3 +301,7 @@ map(array) { $0 * 2 }
 ### ¿Preguntas? ¿Comentarios?
 Las dispositivas y notas están disponibles en:
 [https://github.com/fdiaz/sisifo-talk](https://github.com/fdiaz/sisifo-talk)
+
+^ Links relacionados:
+http://www.exceptionnotfound.net/i-dont-care-if-i-suck-as-long-as-im-learning/
+http://blog.codinghorror.com/programmers-dont-read-books-but-you-should/
