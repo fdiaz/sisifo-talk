@@ -288,4 +288,4 @@ map(array) { $0 * 2 }
 # [fit] Gracias
 ### ¿Preguntas? ¿Comentarios?
 Las dispositivas y notas están disponibles en:
-[https://github.com/fdiaz/](https://github.com/fdiaz/)
+[https://github.com/fdiaz/sisifo-talk](https://github.com/fdiaz/sisifo-talk)
