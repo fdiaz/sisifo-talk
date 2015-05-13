@@ -5,9 +5,9 @@
 ## Lecciones aprendidas de migrar de Objective-C a Swift
 #### *Sin hablar mucho de Objective-C o Swift*
 
-^ En esta charla hablaré un poco sobre mis comienzos en Axiom Zen y las lecciones que he aprendido al pasar de Objective-C a Swift - sin hablar mucho ni de Objective-C ni de Swift -.
+^ En esta charla hablaré un poco sobre mis comienzos en Axiom Zen y las lecciones que he aprendido al pasar de Objective-C a Swift - sin hablar mucho de Objective-C ni de Swift -.
 
-^ Será una charla más autoreferente de lo que me gustaría, hablaré mucho sobre mi proceso, pero con la esperanza que desarrolladores en diferentes estapas de sus carreras se sientan reflejados y quizás las lecciones que aprendí resuenen en ellos.
+^ Será una charla más autoreferente de lo que me gustaría, hablaré mucho sobre mi proceso, pero con la esperanza que desarrolladores en diferentes etapas de sus carreras se sientan reflejados y quizás las lecciones que aprendí resuenen en ellos.
 
 ---
 # [fit] Francisco Díaz
@@ -15,7 +15,7 @@
 
 ![inline fit](img/me.png) ![inline fit](img/axiomzen.png)
 
-^ Soy desarrollador iOS hace más de 4 años. 
+^ Soy desarrollador iOS hace más de 4 años.
 
 ^ Trabajando desde hace 4 meses en Axiom Zen.
 
@@ -73,11 +73,11 @@ void uncaughtExceptionHandler(NSException *exception);
 @end
 ```
 
+^ Siempre es dificil comenzar en algo nuevo y sentir que no sabes nada.
+
 ^ Este es código que **realmente** escribí hace un par de años. Horrible, ¿no?.
 
 ^ Y aún cuando escribía código así, sabía que estaba mejorando.
-
-^ Siempre es dificil comenzar en algo nuevo y sentir que no sabes nada.
 
 ---
 ![fit](img/ali.jpg)
